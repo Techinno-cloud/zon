@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44936485528",
+    "project_id": "zon-cloud-dd1fc",
+    "storage_bucket": "zon-cloud-dd1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44936485528:android:c274ec27c24853eeca0eed",
+        "android_client_info": {
+          "package_name": "tg.techinno.zon.zon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVWAgb0G23r-Z5SfnB8xgUOwr0kDobmh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
